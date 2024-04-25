@@ -29,9 +29,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REInVent650&theme=transparent" alt="Profile card" width="100%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=REInVent650&theme=transparent" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=REInVent650&theme=transparent" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=REInVent650&theme=transparent&utcOffset=-4" alt="Data on commits per day" width="49.7%" height="auto"></a>
 
 </div>
 
